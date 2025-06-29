@@ -22,10 +22,6 @@ public class CadastroDeUsuarios {
 		String senhaConta = entrada.nextLine();
 		
 		usuario.put(nomeConta, senhaConta);
-	
-		/*usuario.put("lucas", "lucas123");
-		usuario.put("pedro", "pedro123");
-		usuario.put("maria", "maria123");*/
 		
 		boolean erro = true;
 		
